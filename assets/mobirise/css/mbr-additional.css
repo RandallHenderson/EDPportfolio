@@ -1717,10 +1717,10 @@ nav.opened .hamburger span {
 @showSubTitle: false;
 @showText: false;
 @showButtons: false;
-@uname__12: "file:///C:/Users/ehender788/Documents/What%20is%20this/assets/images/mbr-1-1916x535.jpg";
+@uname__12: "file:///Volumes/EXTRA/20190429_143641/assets/images/mbr-1-1916x535.jpg";
 @uname__13: true;
 @uname__14: #073b4c;
-@bg-value: "file:///C:/Users/ehender788/Documents/What%20is%20this/assets/images/mbr-1-1916x535.jpg";
+@bg-value: "file:///Volumes/EXTRA/20190429_143641/assets/images/mbr-1-1916x535.jpg";
 @bg-type: "image";
 @bg-color-value: #073b4c;
 @bg-parallax: true;
@@ -3082,7 +3082,6 @@ padding-bottom: (@paddingBottom * 15px);
   margin: 0 auto;
   align-items: stretch;
   -webkit-align-items: stretch;
-  width: 100% !important;
 }
 .cid-roMtmT378n .media-container-row .img-item {
   display: -webkit-flex;
